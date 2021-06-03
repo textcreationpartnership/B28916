@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A reply to a young cockscomb, who sides with a couple of old fools: or, An answer to Hopkins and Sternhold's petition to the Parliament.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28916</idno><idno type="EEBO-CITATION">99888277</idno>
+  <idno type="VID">200856</idno>
+  <idno type="EEBO-PROQUEST">2240896324</idno>
+  
+            <idno type="STC">Wing R1057</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.121.g.9[109]</idno>
+            <idno type="STC">ESTC R229255</idno>
+            <idno type="PROQUEST">ocm99888277</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888277e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28916)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200856)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A8:1[111])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A reply to a young cockscomb, who sides with a couple of old fools: or, An answer to Hopkins and Sternhold's petition to the Parliament.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wells, in St. Paul's church-yard,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Single column of text, intial.</note>
+                  <note>First line: "Ye scoundrel old bards, and a brace of dull knaves."</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Hopkins, John, d. 1570 --  Poetry --  Early works to 1800.</term>
+               <term type="personal_name">Sternhold, Thomas, d. 1549 --  Poetry --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:200856:1"/>
+            <head>
+               <figure>
+                  <figDesc>depiction of an enthroned king</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>depiction of a skeleton bearing an arrow and a shovel, an image emblematic of death</figDesc>
+               </figure>
+            </head>
+            <head>A REPLY TO A <hi>
+                  <hi>Young Cockscomb.</hi> Who sides with a Couple of Old Fools: Or, An An<g ref="char:EOLhyphen"/>swer to</hi> HOPKINS <hi>and</hi> STERNHOLD<hi>'s Petition to the PARLIAMENT.</hi>
+            </head>
+            <lg>
+               <l>YE scoundrel Old Bards, and a Brace of dull Knaves,</l>
+               <l>What a plague makes you mutter and talk in your Graves?</l>
+               <l>Sure ye drank in your Porridge like a couple of <hi>Sots,</hi>
+               </l>
+               <l>And have mix'd the <hi>Spoon-meat</hi> with the Belch of the <hi>Pots;</hi>
+               </l>
+               <l>Or the Worms had by this time, if they had any Conscience,</l>
+               <l>Stopp'd the Tongues of those Fools who made <hi>David</hi>'s speak Nonsence.</l>
+               <l>
+                  <hi>Ye write,</hi> and be damn'd t' ye! <hi>Ye</hi> traffick in Metre!</l>
+               <l>Why, a Bawdy house <hi>Tongs</hi> has a Voice that is sweeter:</l>
+               <l>A <hi>White-Friars Sinner,</hi> or a <hi>Saint</hi> by <hi>Duck-Lane,</hi>
+               </l>
+               <l>A<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Crowders-well</hi> Sonnet, or a <hi>Pye-corner</hi> Strain,</l>
+               <l>Has Raptures and Flights, full of Judgment, and taking,</l>
+               <l>When compar'd to the Things ye call <hi>Psalms</hi> of your making.</l>
+               <pb facs="tcp:200856:2"/>
+               <l> Shame on ye for Coxcombs, away with this Riot,</l>
+               <l>And rot on like the rest who lie by ye in quiet;</l>
+               <l>Nor dare to presume to petition and squabble,</l>
+               <l>When there's none takes your Part but the ignorant Rabble.</l>
+               <l>As for <hi>David,</hi> for God's sake, how dare ye to name him,</l>
+               <l>When your wretched Translations so damnably shame him.</l>
+               <l>Poor Psalmist! he frets, and he storms, and he stares,</l>
+               <l>Bemoans his Composures, and renounces his Pray'rs,</l>
+               <l>Blushes more at the Dress which his <hi>Penitence</hi> hath on,</l>
+               <l>Than when told of his Faults by the Prophet Old <hi>Nathan.</hi>
+               </l>
+               <l>So chang'd are his Lines, and so murther'd each Sentence,</l>
+               <l>So debauch'd his GOD's <hi>Praise,</hi> and so lame his <hi>Repentance,</hi>
+               </l>
+               <l>That to know the good King by the Words ye create him.</l>
+               <l>Is a Thing much more hard than it is to <hi>translate</hi> him.</l>
+               <l>Let me tell ye, grave Dons, I'll be bold to assure ye,</l>
+               <l>It is well that this Warriour lies buried in <hi>JƲRT;</hi>
+               </l>
+               <l>Had he laid near the Place, which at present contains</l>
+               <l>Of ye two sorry Sinners the stupid Remains,</l>
+               <l>'Tis a Pound to a Penny, but his Ashes would fly on,</l>
+               <l>And handle your Skulls like the <hi>Bear,</hi> and the <hi>Lyon.</hi>
+               </l>
+               <l>But for fear I should dwell on the Subject too long,</l>
+               <l>And the Dulness I laugh at be seen in my Song;</l>
+               <l>Lest the <hi>Muse</hi> should turn Jade, and, by Sympathy led,</l>
+               <l>Take part of the Scandal sh' has flung on the Dead,</l>
+               <l>I'll no more of your Canting, and Whining, and Chiming,</l>
+               <l>Your <hi>Elizabeth</hi>-Phrase, and your <hi>Farthingal</hi>-Rhiming,</l>
+               <l>Brought in use as a Covert to Nonsense, I'll tell ye,</l>
+               <l>As that <hi>Righteous</hi> Queen's Dress was to hide a <hi>great Belly.</hi>
+               </l>
+               <l>But though the loud Rabble should never deny ye,</l>
+               <l>Confirm'd in their purpose, and resolv'd to stand by ye,</l>
+               <l>Though the <hi>Poor Ones</hi> should murmur, and doat on your <hi>Sense,</hi>
+               </l>
+               <l>For want of due <hi>Thinking,</hi> and for want of the <hi>Pence;</hi>
+               </l>
+               <l>Though the stiff <hi>Parish-Clerks,</hi> with their <hi>Bands</hi> and their <hi>Gowns,</hi>
+               </l>
+               <l>Read the <hi>New Psalms</hi> with <hi>Hums,</hi> and with <hi>Ha</hi>'s, and with <hi>Frowns,</hi>
+               </l>
+               <l>'Cause the <hi>Levites</hi> their Masters by chance are afraid</l>
+               <l>
+                  <hi>Innovation</hi> should turn to a Practice, and Trade,</l>
+               <l>And by those means the <hi>Godly Wiseacres</hi> be driven</l>
+               <l>From their <hi>Desks,</hi> and their <hi>Pulpits,</hi> their <hi>Sloth</hi> and their <hi>Heaven:</hi>
+               </l>
+               <l>Though the <hi>Stationers</hi> strive all they can to decry 'em,</l>
+               <l>And <hi>Took</hi> swears that thousands of <hi>Old Ones</hi> lie by 'em:</l>
+               <l>Though the <hi>late Version</hi> fails of the <hi>Spirit</hi> and <hi>Force</hi>
+               </l>
+               <l>Of <hi>DAVID</hi>'s <hi>Rejoicings,</hi> or <hi>DAVID</hi>'s <hi>Remorse;</hi>
+               </l>
+               <l>Yet I'm not such a Cockscomb 'stead of <hi>New Psalms,</hi> to learn <hi>Old,</hi>
+               </l>
+               <l>Or to quit <hi>TATE</hi> and <hi>BRADY</hi> for <hi>Hopkins</hi> and <hi>Sternhold.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> John Wells, <hi>in St.</hi> Paul's <hi>Church-yard,</hi> 1699.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
